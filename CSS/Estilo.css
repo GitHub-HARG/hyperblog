@@ -1,16 +1,17 @@
 body {
-  color: green;
+  color: blueviolet;
   text-align: center;
-  font-family: cursive;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 16px;
   margin: 0;
   padding: 0;
 }
 
 #cabecera {
-  background: yellow;
+  background: antiquewhite;
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-  color: yellow;
+  color: black;
   font-weight: bold;
   margin: 0;
   padding: 0.5em;
