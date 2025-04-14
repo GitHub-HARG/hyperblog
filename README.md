@@ -2,4 +2,4 @@
 
 un blog increible para el curso de Git y Github de Platzi
 Este es un proyecto inicializado para practicar
-cada dia un paso a la vez.
+cada momento un paso a la vez. Hotfix
